@@ -1,1 +1,1 @@
-Jenkins example for github project
+Jenkins example for Github project
